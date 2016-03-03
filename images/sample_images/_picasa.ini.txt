@@ -1,0 +1,13 @@
+[team1.jpg]
+backuphash=53748
+[Untitled-1.jpg]
+filters=Border=1,0.000000,8.771930,0.000000,00000000,00ffffff,0.000000;
+backuphash=28161
+[team5.jpg]
+backuphash=5300
+[kishore.jpg]
+backuphash=56787
+[team6.jpg]
+backuphash=32809
+[team2.jpg]
+backuphash=17705
